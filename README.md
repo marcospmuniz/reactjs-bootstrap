@@ -1,3 +1,5 @@
+A simble but usefull bootstrap for ReactJS projects without create-react-app!
+
 ## Installing this project
 
 Download or clone this repository, access the project directory in your local machine with your terminal and run:
